@@ -4,7 +4,7 @@ public class ExAbstrato {
 
 	public static void main(String[] args) {
 		
-		Retangulo ret = new Retangulo("retangulo", 21);
+		Retangulo ret = new Retangulo("retangulo", 23);
 		
 		Triangulo tri = new Triangulo("triangulo", 210);
 		
